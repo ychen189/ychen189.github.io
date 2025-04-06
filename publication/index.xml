@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Selected Articles | Yu (Tina) Chen</title>
-    <link>https://example.com/publication/</link>
-      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ychen189.github.io/publication/</link>
+      <atom:link href="https://ychen189.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Selected Articles</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_afb814bd88bb8cff.png</url>
+      <url>https://ychen189.github.io/media/icon_hu_afb814bd88bb8cff.png</url>
       <title>Selected Articles</title>
-      <link>https://example.com/publication/</link>
+      <link>https://ychen189.github.io/publication/</link>
     </image>
     
     <item>
       <title>Family stress model and parenting in infancy: Social support and parenting self-efficacy as resilience factors</title>
-      <link>https://example.com/publication/pub3/</link>
+      <link>https://ychen189.github.io/publication/pub3/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pub3/</guid>
+      <guid>https://ychen189.github.io/publication/pub3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pediatric mental health prevention programs in primary care</title>
-      <link>https://example.com/publication/pub6/</link>
+      <link>https://ychen189.github.io/publication/pub6/</link>
       <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pub6/</guid>
+      <guid>https://ychen189.github.io/publication/pub6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contributions of mothers’ and fathers’ shared book reading with infants at 9 months to language skills at 18 months in ethnically and socioeconomically diverse families</title>
-      <link>https://example.com/publication/pub1/</link>
+      <link>https://ychen189.github.io/publication/pub1/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pub1/</guid>
+      <guid>https://ychen189.github.io/publication/pub1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mother-child and father-child “serve and return” interactions at 9 months: Associations with children&#39;s language skills at 18 and 24 months</title>
-      <link>https://example.com/publication/pub2/</link>
+      <link>https://ychen189.github.io/publication/pub2/</link>
       <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pub2/</guid>
+      <guid>https://ychen189.github.io/publication/pub2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mothers’ and fathers’ engagement in math activities with their toddler sons and daughters: The moderating role of parental math beliefs</title>
-      <link>https://example.com/publication/pub4/</link>
+      <link>https://ychen189.github.io/publication/pub4/</link>
       <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pub4/</guid>
+      <guid>https://ychen189.github.io/publication/pub4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parenting contributions to Latinx children’s development in the early years</title>
-      <link>https://example.com/publication/pub7/</link>
+      <link>https://ychen189.github.io/publication/pub7/</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pub7/</guid>
+      <guid>https://ychen189.github.io/publication/pub7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Family functioning in the time of COVID-19 among economically vulnerable families: Risks and protective factors</title>
-      <link>https://example.com/publication/pub5/</link>
+      <link>https://ychen189.github.io/publication/pub5/</link>
       <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pub5/</guid>
+      <guid>https://ychen189.github.io/publication/pub5/</guid>
       <description></description>
     </item>
     

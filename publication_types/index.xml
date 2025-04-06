@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Yu (Tina) Chen</title>
-    <link>https://example.com/publication_types/</link>
-      <atom:link href="https://example.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ychen189.github.io/publication_types/</link>
+      <atom:link href="https://ychen189.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/media/icon_hu_afb814bd88bb8cff.png</url>
+      <url>https://ychen189.github.io/media/icon_hu_afb814bd88bb8cff.png</url>
       <title>Publication_types</title>
-      <link>https://example.com/publication_types/</link>
+      <link>https://ychen189.github.io/publication_types/</link>
     </image>
     
   </channel>
