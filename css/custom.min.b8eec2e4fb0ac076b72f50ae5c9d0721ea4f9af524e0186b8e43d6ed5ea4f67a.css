@@ -1,0 +1,1 @@
+.two-colfix .card-deck,.two-col-fix .grid-view{display:grid;grid-template-columns:repeat(2,1fr);gap:2rem}
